@@ -1,6 +1,7 @@
 deepseek_ocr
 outputs
 unsloth_compiled_cache
+deepseek_ocr2
 
 # Python
 __pycache__/
